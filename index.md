@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Resume
+* [April 1st, 2017]( /resume/LeeLazarecky_Resume.pdf )
 
-You can use the [editor on GitHub](https://github.com/Druage/leelazarecky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Open Source Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Phoenix
 
-### Markdown
+[Phoenix](https://github.com/team-phoenix/Phoenix) is a multi-system emulator that plays a plethora of consoles, from Atari 2600, to the PlayStation One.
+<br><br>
+This is a project that I have been actively working on since late 2013. When I started working on this project I was a 2nd year student at Wayne State University hoping to learn more about video and audio rendering, along with gaining a deeper understanding on programming in general. In order to work on this project, I had to teach myself C++, SQL, QML, and the Qt C++ libraries.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Desktop UI
+![Main UI View](/images/glowHighlighter.png?raw=true "Main View")
+![Favorites Area](/images/favorites.png?raw=true "Favorites Area")
+![Drag Drop](/images/dragNDrop.png?raw=true "Drag n Drop Area")
 
-```markdown
-Syntax highlighted code block
+#### Tv UI
+![Big UI](/images/bigUI.png?raw=true "Tv UI")
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Druage/leelazarecky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
